@@ -15,7 +15,7 @@ if !exists('g:move_map_keys')
 endif
 
 if !exists('g:move_key_modifier')
-    let g:move_key_modifier = 'Alt'
+    let g:move_key_modifier = 'C'
 endif
 
 if !exists('g:move_auto_indent')
